@@ -1,0 +1,8 @@
+.container{
+    width: 100%;
+    height: 100vh;
+    background: url(/src/app/Accesories/work-1627703_640.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
